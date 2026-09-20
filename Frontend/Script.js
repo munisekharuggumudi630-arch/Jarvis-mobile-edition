@@ -61,7 +61,7 @@ button{
 
 <h1>J.A.R.V.I.S</h1>
 
-<div id="status">BRAIN:CONNECTED</div>
+<div id="status">BRAIN: CONNECTED</div>
 
 <textarea id="prompt" rows="4">Hello J.A.R.V.I.S</textarea>
 
