@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -60,7 +61,7 @@ button{
 
 <h1>J.A.R.V.I.S</h1>
 
-<div id="status">BRAIN: NOT CONNECTED</div>
+<div id="status">BRAIN:CONNECTED</div>
 
 <textarea id="prompt" rows="4">Hello J.A.R.V.I.S</textarea>
 
@@ -70,7 +71,6 @@ button{
 
 <script>
 
-// PASTE YOUR API KEY BELOW
 const API_KEY = "AQ.Ab8RN6LWmeonn6pzNoBk2AjSnSUx5g9Jx3rxhxvnYrCmmw0uZA ";
 
 async function ask(){
